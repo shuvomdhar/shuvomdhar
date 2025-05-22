@@ -2,7 +2,10 @@
 
 Welcome to my GitHub profile! I'm an aspiring **Software Engineer & AI/ML Enthusiast** and a final year **B.Tech CSE** student at **Sister Nivedita University**, passionate about using technology for **social good**.
 
-![Animated Tech Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Tech Banner" />
+</div>
+
 ---
 
 ## 🚀 About Me
