@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm an aspiring **Software Engineer & AI/ML Enthusiast** and a final year **B.Tech CSE** student at **Sister Nivedita University**, passionate about using technology for **social good**.
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.gifer.com/49OP.gif)" alt="Animated Tech Banner" />
+  <img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.gifer.com/49OP.gif)](https://i.gifer.com/49OP.mp4)" alt="Animated Tech Banner" />
 </div>
 
 ---
