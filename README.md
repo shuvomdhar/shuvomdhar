@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm an aspiring **Software Engineer & AI/ML Enthusiast** and a final year **B.Tech CSE** student at **Sister Nivedita University**, passionate about using technology for **social good**.
 
+![Animated Tech Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ---
 
 ## 🚀 About Me
@@ -48,6 +49,13 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer & AI/ML Enthus
 - 🎶 Music, cricket enthusiast
 - 🎥 Video/photo editing in spare time
 - 💬 Passionate problem solver
+
+---
+
+## 🎥 A Glimpse of What I Love
+
+> Here’s an inspiring tech journey I relate to:
+[![Watch on YouTube](https://img.shields.io/badge/Watch-Animated%20Inspiration-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 
 ---
 
