@@ -53,15 +53,11 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer & AI/ML Enthus
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=shuvomdhar&show_icons=true&theme=radical" alt="Shuvom's GitHub Stats" />
 
-  <br>
-
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvomdhar&layout=compact&theme=radical" alt="Top Languages" />
 
-  <br>
-
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shuvomdhar&theme=github-compact" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvomdhar&theme=github-compact" alt="GitHub Activity Graph" />
 
 </div>
 
