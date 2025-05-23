@@ -46,6 +46,21 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer & AI/ML Enthus
 
 ---
 
+## 📊 GitHub Activity & Stats
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shuvomdhar&show_icons=true&theme=radical" alt="Shuvom's GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvomdhar&layout=compact&theme=radical" alt="Top Languages" />
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shuvomdhar&theme=github-compact" alt="GitHub Activity Graph" />
+
+</div>
+
 ## 🎨 Hobbies & Interests
 
 - 🎭 Portrait art, sketching, abstract art
