@@ -54,6 +54,12 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer & AI/ML Enthus
 
 </div>
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shuvomdhar/shuvomdhar/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution Graph" />
+</div>
+
 ## 🎨 Hobbies & Interests
 
 - 🎭 Portrait art, sketching, abstract art
