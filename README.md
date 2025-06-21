@@ -52,12 +52,6 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer & AI/ML Enthus
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvomdhar&theme=github-compact" alt="GitHub Activity Graph" />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shuvomdhar/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://shuvomdhar/github-snake.svg" />
-    <img alt="github-snake" src="https://shuvomdhar/github-snake.svg" />
-  </picture>
-
 </div>
 
 ## 🎨 Hobbies & Interests
