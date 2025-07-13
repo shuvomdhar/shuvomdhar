@@ -17,10 +17,10 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer & AI/ML Enthus
   - **Web Development**   
   - **Computer Vision** 
 - 🧠 Learning tools like **C, Python, C++, Java, JavaScript**, and working on real-world problems.
-- 🛠️ Recently working on:
+- 🛠️ Currently working on:
   - **Vehicle assistance web app** for people stuck on highways.
 - 💬 Always open for collaboration, mentorship, and innovative ideas.
-- 🎯 Career Goal: To become a skilled software engineer, solving real-world problems with smart, scalable tech solutions.
+- 🎯 Career Goal: To become a skilled software developer, solving real-world problems with smart, scalable tech solutions.
 
 ---
 
