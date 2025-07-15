@@ -63,13 +63,6 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer & AI/ML Enthus
 
 ---
 
-## 🎥 A Glimpse of What I Love
-
-> Here’s an inspiring tech journey I relate to:
-[![Watch on YouTube](https://img.shields.io/badge/Watch-Animated%20Inspiration-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-
----
-
 ## 📫 Let's Connect!
 
 - 🌐 [LinkedIn](linkedin.com/in/shuvom-dhar)
