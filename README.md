@@ -1,6 +1,14 @@
-# 👋 Hello there! I'm Shuvom
+<div align="center">
+  
+# 👋 Hello, I'm Shuvom Dhar
 
-Welcome to my GitHub profile! I'm an aspiring **Software Engineer & AI/ML Enthusiast** and a final year **B.Tech CSE** student at **Sister Nivedita University**, passionate about using technology for **social good**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AI%2FML+Enthusiast;Full+Stack+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shuvom-dhar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shuvomdhar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuvomdhar8@gmail.com)
+
+</div>
 
 <div align="center">
   <img src="https://i.gifer.com/49OP.gif" alt="Animated Tech Banner" />
@@ -10,66 +18,135 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer & AI/ML Enthus
 
 ## 🚀 About Me
 
-- 🎓 Completed Higher Secondary Education from **Jodhpur Park Boys' School** and currently pursuing B.Tech in **Computer Science and Engineering**.
-- 💡 A firm believer in the power of **technology to bring positive change**.
-- 🌱 Currently exploring:  
-  - **Data Science & Machine Learning**  
-  - **Web Development**   
-  - **Computer Vision** 
-- 🧠 Learning tools like **C, Python, C++, Java, JavaScript**, and working on real-world problems.
-- 🛠️ Currently working on:
-  - **Vehicle assistance web app** for people stuck on highways.
-- 💬 Always open for collaboration, mentorship, and innovative ideas.
-- 🎯 Career Goal: To become a skilled software developer, solving real-world problems with smart, scalable tech solutions.
+```javascript
+const shuvom = {
+    education: "B.Tech CSE @ Sister Nivedita University",
+    role: "Software Engineer & AI/ML Enthusiast",
+    location: "India",
+    currentFocus: ["Data Science", "Machine Learning", "Web Development", "Computer Vision"],
+    currentProject: "Vehicle Assistance Web App for Highway Emergencies",
+    lifePhilosophy: "Striving to build impactful tech, not just code",
+    hobbies: ["Portrait Art", "Music", "Cricket", "Video Editing", "Photography"]
+};
+```
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 💡 What I'm Up To
+
+- 🎓 Final year B.Tech CSE student, passionate about **technology for social good**
+- 🌱 Currently exploring **Data Science, ML, Web Dev & Computer Vision**
+- 🛠️ Building a **vehicle assistance platform** to help stranded travelers
+- 💬 Open for **collaboration, mentorship, and innovative projects**
+- 🎯 Goal: Become a skilled developer solving real-world problems
+
+### 🎨 Beyond Code
+
+When I'm not coding, you'll find me creating **portrait art**, jamming to **music**, playing **cricket**, or editing **videos** and **photos**. I believe in balancing technical skills with creative expression!
 
 ---
 
-## 💻 Technologies & Tools
+## 🛠️ Tech Stack
 
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvomdhar&theme=github-compact" alt="GitHub Activity Graph" />
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shuvomdhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvomdhar&theme=tokyonight&hide_border=true" />
 
 </div>
 
-## 🎨 Hobbies & Interests
+### 📈 Most Used Languages
 
-- 🎭 Portrait art, sketching, abstract art
-- 🎶 Music, cricket enthusiast
-- 🎥 Video/photo editing in spare time
-- 💬 Passionate problem solver
+<div align="center">
+  
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvomdhar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=shuvomdhar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 🎯 Current Projects
+
+### 🚗 Vehicle Assistance Web App
+Building a platform to help people stranded on highways connect with nearby assistance services. Tech stack includes web development and real-time location services.
+
+---
+
+## 💡 Philosophy
+
+> "Technology is best when it brings people together and solves real problems."
+
+I'm driven by the belief that **technology should serve humanity**. Every line of code I write is a step toward creating solutions that make a difference in people's lives.
 
 ---
 
 ## 📫 Let's Connect!
 
-- 🌐 [LinkedIn](linkedin.com/in/shuvom-dhar)
-- 📬 Feel free to connect, collaborate, or just say hello!
+<div align="center">
+
+### 💬 I'm always open to:
+- 🤝 Collaborating on interesting projects
+- 💡 Discussing innovative ideas
+- 🎓 Mentorship opportunities
+- 🌐 Networking with fellow developers
+
+**Feel free to reach out—let's build something amazing together!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shuvom-dhar)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-red?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
+
+</div>
 
 ---
 
-> _"Striving to build impactful tech, not just code."_  
-> — Shuvom
+<div align="center">
+  
+### ⭐️ From [shuvomdhar](https://github.com/shuvomdhar) with 💙
 
+<img src="https://komarev.com/ghpvc/?username=shuvomdhar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
