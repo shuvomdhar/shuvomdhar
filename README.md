@@ -99,6 +99,12 @@ When I'm not coding, you'll find me creating **portrait art**, jamming to **musi
 
 </div>
 
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvomdhar&theme=github-compact" alt="GitHub Activity Graph" />
+
+</div>
+
 ### 🏆 GitHub Trophies
 
 <div align="center">
