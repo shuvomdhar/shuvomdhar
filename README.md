@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm Shuvom Dhar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AI%2FML+Enthusiast;Full+Stack+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AI%2FML+Enthusiast;Full+Stack+Developer;Problem+Solver+%26+Innovator;Aspiring+Data+Scientist" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shuvom-dhar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shuvomdhar)
