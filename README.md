@@ -147,7 +147,7 @@ I'm driven by the belief that **technology should serve humanity**. Every line o
 **Feel free to reach out—let's build something amazing together!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shuvom-dhar)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-red?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-red?style=for-the-badge&logo=gmail)](mailto:shuvomdhar8@gmail.com)
 
 </div>
 
