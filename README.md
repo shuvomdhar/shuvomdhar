@@ -22,9 +22,8 @@
 const shuvom = {
     education: "B.Tech CSE @ Sister Nivedita University",
     role: "Software Engineer & AI/ML Enthusiast",
-    location: "India",
+    location: "Kolkata, West Bengal, India",
     currentFocus: ["Data Science", "Machine Learning", "Web Development", "Computer Vision"],
-    currentProject: "Vehicle Assistance Web App for Highway Emergencies",
     lifePhilosophy: "Striving to build impactful tech, not just code",
     hobbies: ["Portrait Art", "Music", "Cricket", "Video Editing", "Photography"]
 };
@@ -89,20 +88,22 @@ When I'm not coding, you'll find me creating **portrait art**, jamming to **musi
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shuvomdhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvomdhar&theme=tokyonight&hide_border=true" />
 
-</div>
+</div> -->
 
-### 📈 Most Used Languages
+<!-- <div>
+  ### 📈 Most Used Languages
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvomdhar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
-</div>
+</div> -->
 
 <div align="center">
   
@@ -110,20 +111,15 @@ When I'm not coding, you'll find me creating **portrait art**, jamming to **musi
 
 </div>
 
-### 🏆 GitHub Trophies
+<!-- <div>
+  ### 🏆 GitHub Trophies
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=shuvomdhar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
-</div>
-
----
-
-## 🎯 Current Projects
-
-### 🚗 Vehicle Assistance Web App
-Building a platform to help people stranded on highways connect with nearby assistance services. Tech stack includes web development and real-time location services.
+</div> -->
 
 ---
 
