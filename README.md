@@ -43,6 +43,10 @@ const shuvom = {
 
 When I'm not coding, you'll find me creating **portrait art**, jamming to **music**, playing **cricket**, or editing **videos** and **photos**. I believe in balancing technical skills with creative expression!
 
+### 📸 Video Animation
+
+<Video src="/video/animation.mp4" alt="Video Animation" />
+
 ---
 
 ## 🛠️ Tech Stack
