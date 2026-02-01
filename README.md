@@ -44,7 +44,7 @@ const shuvom = {
 When I'm not coding, you'll find me creating **portrait art**, jamming to **music**, playing **cricket**, or editing **videos** and **photos**. I believe in balancing technical skills with creative expression!
 
 <p align="center">
-  <img src="video/animation.gif" width="400">
+  <img src="video/animation.gif" height="300">
 </p>
 
 ---
