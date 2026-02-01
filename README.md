@@ -43,13 +43,9 @@ const shuvom = {
 
 When I'm not coding, you'll find me creating **portrait art**, jamming to **music**, playing **cricket**, or editing **videos** and **photos**. I believe in balancing technical skills with creative expression!
 
-### 📸 Video Animation
-
-<div align="center">
-  <a href="https://github.com/shuvomdhar/shuvomdhar/blob/main/video/animation.mp4">
-    <img src="https://github.com/shuvomdhar/shuvomdhar/blob/main/video/animation.gif" width="600" />
-  </a>
-</div>
+<p align="center">
+  <img src="video/animation.gif" width="400">
+</p>
 
 ---
 
