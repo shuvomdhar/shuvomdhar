@@ -147,6 +147,8 @@ I'm driven by the belief that **technology should serve humanity**. Every line o
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shuvom-dhar)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-red?style=for-the-badge&logo=gmail)](mailto:shuvomdhar8@gmail.com)
+[![Zoho Mail](https://img.shields.io/badge/Zoho_Mail-Contact-red?style=for-the-badge&logo=zoho&logoColor=white)](mailto:shuvomdhar2233@zohomail.in)
+[![Arattai](https://img.shields.io/badge/Arattai-Chat-00BFA5?style=for-the-badge)]([https://www.arattai.in/](https://aratt.ai/user/@shuvomdhar))
 
 </div>
 
