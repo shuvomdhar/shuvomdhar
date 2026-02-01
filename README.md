@@ -45,7 +45,11 @@ When I'm not coding, you'll find me creating **portrait art**, jamming to **musi
 
 ### 📸 Video Animation
 
-<Video src="/video/animation.mp4" alt="Video Animation" />
+<div align="center">
+  <a href="/video/animation.mp4">
+    <img src="/video/animation.gif" width="600" />
+  </a>
+</div>
 
 ---
 
