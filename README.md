@@ -46,8 +46,8 @@ When I'm not coding, you'll find me creating **portrait art**, jamming to **musi
 ### 📸 Video Animation
 
 <div align="center">
-  <a href="/video/animation.mp4">
-    <img src="/video/animation.gif" width="600" />
+  <a href="https://github.com/shuvomdhar/shuvomdhar/blob/main/video/animation.mp4">
+    <img src="https://github.com/shuvomdhar/shuvomdhar/blob/main/video/animation.gif" width="600" />
   </a>
 </div>
 
