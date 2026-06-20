@@ -21,7 +21,7 @@
 ```javascript
 const shuvom = {
     education: "B.Tech CSE @ Sister Nivedita University",
-    role: "Software Engineer & AI/ML Enthusiast",
+    role: "Software Engineer & AI/ML Engineer",
     location: "Kolkata, West Bengal, India",
     currentFocus: ["Data Science", "Machine Learning", "Web Development", "Computer Vision"],
     lifePhilosophy: "Striving to build impactful tech, not just code",
@@ -33,7 +33,7 @@ const shuvom = {
 
 ### 💡 What I'm Up To
 
-- 🎓 Final year B.Tech CSE student, passionate about **technology for social good**
+- 🎓 B.Tech CSE graduate, passionate about **technology for social good**
 - 🌱 Currently exploring **Data Science, ML, Web Dev & Computer Vision**
 - 🛠️ Building a **vehicle assistance platform** to help stranded travelers
 - 💬 Open for **collaboration, mentorship, and innovative projects**
